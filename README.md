@@ -1,7 +1,7 @@
 README
 =========
 
-This was a simeple Android accelerometer test which you can play around with. 
+This was a simple Android accelerometer test which you can play around with.
 
 Does some simple things
 
@@ -10,4 +10,10 @@ Does some simple things
  * Accelerometer data
  * Was screen on or off
  * Was the screen touched
- * If it was touch, what coordinates
+ * If it was touched, what coordinates were they
+
+Screenshot
+
+![alt tag](https://raw.githubusercontent.com/dipankar/acceltest/master/screenshot1.png)
+
+
