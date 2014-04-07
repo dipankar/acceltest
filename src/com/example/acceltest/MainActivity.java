@@ -196,7 +196,7 @@ public class MainActivity extends Activity implements SensorEventListener  {
 			      // TODO Auto-generated catch block
 			      e.printStackTrace();
 			   }
-			  if(stateNum<10) {
+			  if(stateNum<15000) {
 				  stateNum++;
 				  mHandler.postDelayed(this, 20);
 			  } else {
